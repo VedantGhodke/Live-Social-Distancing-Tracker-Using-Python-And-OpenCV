@@ -25,7 +25,7 @@ This project is developed for live detection and tracking of social distancing d
 
 ## Testing Environment
 
-1. Laptop Specifications : Intel(R) Core(TM)i5-7200U (upto 2.7GHz), 8 GB Memory
+1. Laptop Specifications : Intel(R) Core(TM) i5-7200U (upto 2.7GHz), 8 GB RAM
 2. Operating System      : Ubuntu 18.04
 3. Python version        : Python 3.7.6
 4. Tensorflow version    : 2.2.0 
